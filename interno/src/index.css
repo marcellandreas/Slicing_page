@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+
+#root {
+  font-family: "DM Serif Display", serif;
+}
+
+#counter-line {
+  border-right: 2px solid #cda274;
+  height: 180px;
+}
+
+#border-def {
+  border: 1px solid #e7e7e7;
+}

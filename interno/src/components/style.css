@@ -1,0 +1,7 @@
+/* Banner CSS Background */
+
+#banner {
+  background-image: url(../assets/BannerLg.png);
+  background-size: cover;
+  border-radius: 0 0 0 120px;
+}
