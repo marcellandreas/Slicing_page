@@ -5,7 +5,6 @@ import Title from "../Elements/Title";
 import image from "../../assets/Banner.png";
 import ratting from "../../assets/start.png";
 import Paragraf from "../Elements/Paragraf";
-import Counters from "../Molecules/Counter";
 import Counter from "../Molecules/Counter";
 
 const Testimonial = () => {
