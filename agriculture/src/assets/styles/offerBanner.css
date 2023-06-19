@@ -1,0 +1,13 @@
+.offer-banner-1 {
+  background-image: url("../offer_banner_1.svg");
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+}
+
+.offer-banner-2 {
+  background-image: url("../offer_banner_2.svg");
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+}

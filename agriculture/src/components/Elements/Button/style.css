@@ -1,0 +1,19 @@
+.button-default {
+  @apply bg-primary-1 text-white flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[39px] rounded-2xl;
+}
+.button-default-2 {
+  @apply bg-primary-3 text-primary-1 flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[39px] rounded-2xl lg:py-[20px] lg:px-[31px];
+}
+.button-default-3 {
+  @apply border border-primary-1 text-primary-1 flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[35px] rounded-2xl;
+}
+
+.button-arrow-right {
+  @apply w-[19px] h-[19px] bg-[#335B6B] rounded-full flex justify-center items-center;
+}
+.button-arrow-right-2 {
+  @apply w-[19px] h-[19px] bg-[#335B6B] text-white rounded-full flex justify-center items-center;
+}
+.button-text {
+  @apply text-button;
+}

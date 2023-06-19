@@ -1,0 +1,6 @@
+.banner-homepage {
+  background-image: url("../Banner.png");
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+}
