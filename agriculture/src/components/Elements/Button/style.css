@@ -1,11 +1,11 @@
 .button-default {
-  @apply bg-primary-1 text-white flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[39px] rounded-2xl;
+  @apply bg-primary-1 text-white flex gap-[10px] w-[237px] justify-center items-center py-[28px] px-[39px] rounded-2xl;
 }
 .button-default-2 {
-  @apply bg-primary-3 text-primary-1 flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[39px] rounded-2xl lg:py-[20px] lg:px-[31px];
+  @apply bg-primary-3 text-primary-1 flex gap-[10px] w-[237px]  justify-center items-center py-[28px] px-[39px] rounded-2xl;
 }
 .button-default-3 {
-  @apply border border-primary-1 text-primary-1 flex gap-[10px] w-[237px] h-20 justify-center items-center py-[28px] px-[35px] rounded-2xl;
+  @apply border border-primary-1 text-primary-1 flex gap-[10px] w-[237px] justify-center items-center py-[28px] px-[35px] rounded-2xl;
 }
 
 .button-arrow-right {

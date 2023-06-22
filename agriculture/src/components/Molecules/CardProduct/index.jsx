@@ -1,6 +1,8 @@
-import Tag from "../../Elements/Tag";
-
+// Image
 import ratting from "../../../assets/start.png";
+
+// elments
+import Tag from "../../Elements/Tag";
 
 const CardProduct = (props) => {
   const { title, price, tag, imgProduct } = props;

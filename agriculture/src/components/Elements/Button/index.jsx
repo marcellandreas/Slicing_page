@@ -9,7 +9,7 @@ const Button = (props) => {
   } = props;
   return (
     <button className={`${variant}`}>
-      <div className="button-text">{children}</div>
+      <div className="text-button font-semibold">{children}</div>
       <AiOutlineArrowRight className={`${icon}`} />
     </button>
   );

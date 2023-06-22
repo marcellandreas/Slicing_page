@@ -1,4 +1,6 @@
 import "../../assets/styles/offerBanner.css";
+
+// Molecules
 import OfferBanner from "../Molecules/OfferBanner";
 
 const OfferBannerComp = () => {

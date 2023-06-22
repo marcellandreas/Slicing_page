@@ -1,10 +1,10 @@
-import "./App.css";
-import { AiOutlineArrowRight } from "react-icons/ai";
 import Routing from "./routers/Routing";
+import Test from "./test";
 
 function App() {
   return (
     <>
+      {/* <Test /> */}
       <Routing />
     </>
   );

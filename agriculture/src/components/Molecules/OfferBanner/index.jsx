@@ -1,5 +1,7 @@
-import Title from "../../Elements/Title";
 import "./style.css";
+
+// ELements
+import Title from "../../Elements/Title";
 
 const OfferBanner = (props) => {
   const { children, variant = "bg-primary-1", promo } = props;

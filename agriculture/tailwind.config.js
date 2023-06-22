@@ -12,6 +12,7 @@ export default {
         6: "#F9F8F8",
         7: "#EFF6F1",
       },
+      black: "#000",
       white: "#fff",
       gray: "#E0E0E0",
     },
